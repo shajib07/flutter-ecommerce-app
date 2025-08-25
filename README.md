@@ -200,10 +200,6 @@ flutter build ios --release
 flutter build web --release
 ```
 
-## 📱 Screenshots
-
-*[Add screenshots of your app here]*
-
 ## 🔌 API Endpoints
 
 The application integrates with the DummyJSON API:
